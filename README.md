@@ -2,6 +2,10 @@
 
 MERN stack leave management app with a React + shadcn/ui client and an Express + Prisma + MongoDB server.
 
+<img width="1354" height="615" alt="LMS-1" src="https://github.com/user-attachments/assets/786cd981-3054-4204-97c9-a65de128d821" />
+<img width="1366" height="616" alt="LMS" src="https://github.com/user-attachments/assets/a9a6c1d0-655d-4877-8763-2fdd6cb6270e" />
+
+
 ## Run
 
 ```
